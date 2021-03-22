@@ -4,8 +4,14 @@
 # 自我介紹
 
 資工碩一 吳祐任 M10915094  
-畢業於輔仁大學資工系
-擅長領域：電腦圖學、Unity3D、VR/AR、機器學習、微處理系統
+
+畢業於輔仁大學資工系  
+擅長領域：  
+* 電腦圖學
+* Unity3D
+* VR/AR
+* 機器學習
+* 微處理系統
 
 
 ![好耶](https://github.com/Decayo/Decayo.github.io/blob/main/GOODYEAH.jpg?raw=true "Logo 標題文字 1")
