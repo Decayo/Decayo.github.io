@@ -12,5 +12,4 @@
 
 
 
-可以跑出9個  
 <img src="https://render.githubusercontent.com/render/math?math=\Huge %2B\angle+ye^{e^{e^{e^{e^{e^{e^{e^{e+\cdots}}}}}}}}">  
