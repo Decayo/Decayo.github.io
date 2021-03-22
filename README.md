@@ -16,6 +16,6 @@
 
 ![好耶](https://github.com/Decayo/Decayo.github.io/blob/main/GOODYEAH.jpg?raw=true "Logo 標題文字 1")
 
-
+![](https://latex.codecogs.com/svg.latex?\Large&space;f(x)=\int_{+\infty}^{-\infty}f(x){e^{-2\pi{x\zeta}}}d\zeta)
 
 <img src="https://render.githubusercontent.com/render/math?math=\Huge %2B\angle+ye^{e^{e^{e^{e^{e^{e^{e^{e+\cdots}}}}}}}}">  
