@@ -8,7 +8,7 @@
 擅長領域：電腦圖學、Unity3D、VR/AR、機器學習、微處理系統
 
 
-![好耶](https://github.com/Decayo/Decayo.github.io/blob/main/GOODYEAH.jfif7 "Logo 標題文字 1")
+![好耶](https://github.com/Decayo/Decayo.github.io/blob/main/GOODYEAH.jpg?raw=true "Logo 標題文字 1")
 
 
 使用githubusercontent
